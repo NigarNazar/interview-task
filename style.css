@@ -1,0 +1,13 @@
+.netice {
+    background-color: turquoise;
+    justify-content: space-around;
+    display: none;
+}
+
+.active {
+    display: flex;
+}
+
+ul {
+    border-right: 2px solid #000;
+}
